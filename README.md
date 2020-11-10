@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://clever-hypatia-da7bf0.netlify.app/">
+    <a href="https://modest-darwin-dba44f.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/la5rnF9g25Sg8cwBrsbh">
+    <a href="https://devchallenges.io/solutions/YAgRh9nxJW5XdmOOh8BX">
       Solution
     </a>
     <span> | </span>
@@ -36,9 +36,9 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/Elxilon/devchall-2/main/img/preview.PNG)
+![screenshot](https://raw.githubusercontent.com/Elxilon/devchall-3/main/img/preview.PNG)
 
-- <a href="https://clever-hypatia-da7bf0.netlify.app/">
+- <a href="https://modest-darwin-dba44f.netlify.app/">
       Where can I see your demo?
   </a>
 
