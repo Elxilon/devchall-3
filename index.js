@@ -1,10 +1,10 @@
 const menuButton = document.querySelector(".menu");
-const menuIcon = document.querySelectorAll(".menu-icon");
+const menuIcon = document.querySelector(".menu-icon");
 const navMobile = document.querySelector("nav");
 
 menuButton.addEventListener("click", () => {
-    menuIcon[0].classList.toggle("menu-hide");
-    menuIcon[1].classList.toggle("menu-hide");
+    if (menuIcon.innerText === "menu") menuIcon.innerText = "close";
+    else menuIcon.innerText = "menu";
     navMobile.classList.toggle("menu-hide");
     menuButton.classList.toggle("menu-fixed");
 });
